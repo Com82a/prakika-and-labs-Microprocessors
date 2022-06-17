@@ -1,0 +1,3 @@
+﻿  Assembling Source.asm...
+Debug\Source.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  lab1_MP.vcxproj -> C:\Users\student\Documents\МП_пр_Чугнунов\lab1_MP\Debug\lab1_MP.exe

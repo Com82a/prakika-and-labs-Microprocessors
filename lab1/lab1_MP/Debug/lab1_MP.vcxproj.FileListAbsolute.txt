@@ -1,0 +1,5 @@
+C:\Users\student\source\repos\lab1_MP\Debug\lab1_MP.exe
+C:\Users\student\source\repos\lab1_MP\Debug\lab1_MP.pdb
+h:\временные файлы\lab1_MP\Debug\lab1_MP.exe
+C:\Users\student\Documents\МП_пр_Чугнунов\lab1_MP\Debug\lab1_MP.exe
+C:\Users\student\Documents\МП_пр_Чугнунов\lab1_MP\Debug\lab1_MP.pdb
